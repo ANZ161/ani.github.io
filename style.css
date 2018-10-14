@@ -1,0 +1,13 @@
+body {
+	text-align: justify;
+}
+p.f1 {
+	font-family: Georgia, "Times New Roman", serif;
+}
+p.f2 {font-family: Verdana, Arial, sans-serif;}
+
+p.f3 {font-family: Courier, Cambria, monospace;}
+
+p.f4 {font-family: Roboto, Arial, sans-serif;}
+
+p.f5 {font-family: Verdana, Arial, sans-serif;}
